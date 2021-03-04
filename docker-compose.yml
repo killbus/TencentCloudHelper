@@ -1,0 +1,7 @@
+version: "3.5"
+
+services:
+
+  TencentCloudHelper:
+    image: ghcr.io/killbus/TencentCloudHelper:latest
+    command: SecretId1 SecretKey1 SecretId2 SecretKey2
