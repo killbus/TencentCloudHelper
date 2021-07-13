@@ -1,3 +1,3 @@
 # TencentCloudHelper-dockerized
 
-Upstream: bbhxwl/TencentCloudHelper
+Upstream: [bbhxwl/TencentCloudHelper](https://github.com/bbhxwl/TencentCloudHelper)
